@@ -107,6 +107,10 @@ class _HomeScreenState extends State<HomeScreen> {
                                           value: selectedCourses
                                               .contains(courses[index]),
                                           onChanged: (bool? value) {
+<<<<<<< HEAD
+=======
+                                            print(value);
+>>>>>>> 2b3f7a3 (Initial commit)
                                             setState(() {
                                               if (value != null) {
                                                 if (value) {
