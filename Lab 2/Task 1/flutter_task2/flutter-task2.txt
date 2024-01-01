@@ -1,0 +1,5 @@
+1) Use flutter page view to create onboarding screen like attached images
+-> note you can use flutter_svg package
+
+
+2)create multiple checkboxes on bottom sheet to select many courses from course list
